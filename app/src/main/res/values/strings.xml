@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TommyTracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_placeholder">Thomas Agolli</string>
+    <string name="age_placeholder">8 m</string>
+    <string name="weight_placeholder">8 kg</string>
+    <string name="height_placeholder">67 cm</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_create_new_account">Create new account</string>
+    <string name="action_guest">Proceed as a guest</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+</resources>
