@@ -1,22 +1,42 @@
 package com.example.tedis.tommytracker.LoginActivity
 
-import android.util.Log
+import com.example.tedis.tommytracker.AuthViewInterface
 import com.example.tedis.tommytracker.Presenter
+import com.google.firebase.auth.FirebaseAuth
 import javax.inject.Inject
+
 
 /**
  * Created by Tedis on 1/27/2018.
  */
-class LoginActivityPresenter @Inject constructor(): Presenter<LoginActivityView>{
+class LoginActivityPresenter @Inject constructor(): Presenter<AuthViewInterface>{
 
-    private lateinit var loginActivityView:LoginActivityView
+    private val mAuth = FirebaseAuth.getInstance()
+    private lateinit var loginView: AuthViewInterface
 
-    override fun setView(view: LoginActivityView) {
-        this.loginActivityView = view
+    override fun setView(view: AuthViewInterface) {
+        this.loginView = view
     }
 
     fun attemptLogin(email:String,password:String)
     {
-        Log.d("LoginActivityPresenter","attemptLogin")
+        try {
+            mAuth.signInWithEmailAndPassword(email, password)
+                    .addOnCompleteListener { task ->
+                        if (task.isSuccessful) {
+                            mAuth.currentUser?.reload()
+                            loginView.onAuthSuccess()
+                        }
+                        else
+                        {
+                            loginView.onAuthFail()
+                        }
+                    }
+            // Simulate network access.
+            Thread.sleep(2000)
+        } catch (e: InterruptedException) {
+            //TODO Handle exception
+        }
+
     }
 }

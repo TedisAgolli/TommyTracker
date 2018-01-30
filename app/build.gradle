@@ -36,9 +36,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
-    compile 'com.github.WellingtonCosta.convalida:convalida:1.2.0'
-    annotationProcessor 'com.github.WellingtonCosta.convalida:convalida-compiler:1.2.0'
-
     compile 'com.jakewharton:butterknife:8.8.1'
     kapt 'com.jakewharton:butterknife-compiler:8.8.1'
 

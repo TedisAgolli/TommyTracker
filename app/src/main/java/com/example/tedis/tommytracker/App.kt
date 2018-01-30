@@ -17,7 +17,6 @@ object App : Application() {
     fun getAppComponent():AppComponent
     {
        return component
-
     }
 }
 
