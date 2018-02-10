@@ -4,7 +4,7 @@ Created by https://www.gitignore.io/api/android,androidstudio
 # Built application files
 *.apk
 *.ap_
-
+app/build/intermmediates/*
 # Files for the ART/Dalvik VM
 *.dex
 
