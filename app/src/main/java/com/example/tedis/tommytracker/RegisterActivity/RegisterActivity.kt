@@ -1,10 +1,13 @@
 package com.example.tedis.tommytracker.RegisterActivity
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.text.TextUtils
 import android.util.Log
 import com.example.tedis.tommytracker.App
+import com.example.tedis.tommytracker.AuthViewInterface
+import com.example.tedis.tommytracker.LoginActivity.LoginActivity
 import com.example.tedis.tommytracker.R
 import com.example.tedis.tommytracker.Utils.ERROR_FIELD_REQUIRED
 import com.example.tedis.tommytracker.Utils.ERROR_INVALID_EMAIL
@@ -15,7 +18,15 @@ import kotlinx.android.synthetic.main.activity_register.*
 import javax.inject.Inject
 
 @Module
-class RegisterActivity : AppCompatActivity() {
+class RegisterActivity : AppCompatActivity(), AuthViewInterface {
+    override fun onAuthSuccess() {
+        val intent = Intent(this, LoginActivity::class.java)
+        startActivity(intent)
+    }
+
+    override fun onAuthFail() {
+        Log.d("REGISTER", "failed")
+    }
 
     @Inject lateinit var registerPresenter:RegisterActivityPresenter
     @Inject lateinit var validation:FieldValidation
@@ -24,6 +35,7 @@ class RegisterActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
         App.getAppComponent().inject(this)
+        registerPresenter.setView(this)
 
         btnRegister.setOnClickListener{
 
@@ -34,9 +46,7 @@ class RegisterActivity : AppCompatActivity() {
             {
                 registerPresenter.attemptRegister(email,password)
             }
-
         }
-
     }
 
 

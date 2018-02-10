@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "1081424918948",
-    "firebase_url": "https://sellsomething-56fc4.firebaseio.com",
-    "project_id": "sellsomething-56fc4",
-    "storage_bucket": "sellsomething-56fc4.appspot.com"
+    "project_number": "450997645634",
+    "firebase_url": "https://tommytracker-398ae.firebaseio.com",
+    "project_id": "tommytracker-398ae",
+    "storage_bucket": "tommytracker-398ae.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1081424918948:android:cea466d5570ba716",
+        "mobilesdk_app_id": "1:450997645634:android:cea466d5570ba716",
         "android_client_info": {
           "package_name": "com.example.tedis.tommytracker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1081424918948-euecujjrq4s52p91fh42ntg1nv9mbj9s.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.tedis.tommytracker",
-            "certificate_hash": "5981b87ff59d01c1412b729129e7245e9b338289"
-          }
-        },
-        {
-          "client_id": "1081424918948-cte5gt5or2pp8kjbkf6j0j17cg8l3ad7.apps.googleusercontent.com",
+          "client_id": "450997645634-hloksi43lhdgp450jbksos76n25btbac.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCD2iO4RM2ANFsmoijAuVK7snMeB6JSUlo"
+          "current_key": "AIzaSyCOjoCWoTAKiY-Dl6Rvc5zfvTC6HRIQkJk"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1081424918948-cte5gt5or2pp8kjbkf6j0j17cg8l3ad7.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

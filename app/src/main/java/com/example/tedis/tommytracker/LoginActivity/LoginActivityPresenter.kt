@@ -18,6 +18,11 @@ class LoginActivityPresenter @Inject constructor(): Presenter<AuthViewInterface>
         this.loginView = view
     }
 
+    fun checkIfLoggedIn()
+    {
+        if(mAuth.currentUser != null)
+            loginView.onAuthSuccess()
+    }
     fun attemptLogin(email:String,password:String)
     {
         try {

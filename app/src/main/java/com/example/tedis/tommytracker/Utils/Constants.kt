@@ -13,5 +13,9 @@ package com.example.tedis.tommytracker.Utils
     const val ERROR_INCORRECT_PASSWORD = "This password is incorrect"
     const val ERROR_FIELD_REQUIRED = "This field is required"
 
+    const val FEEDING_CODE = 0
+    const val POTTY_CODE = 1
+    const val SLEEP_CODE = 2
+
 
 

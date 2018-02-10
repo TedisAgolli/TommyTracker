@@ -30,11 +30,14 @@ class LoginActivity : AppCompatActivity(), AuthViewInterface {
         App.getAppComponent().inject(this)
 
         loginPresenter.setView(this)
+        loginPresenter.checkIfLoggedIn()
+
+
 
         btnLogin.setOnClickListener {
 
-            login_txt_email.setError(null)
-            login_txt_password.setError(null)
+            login_txt_email.error = null
+            login_txt_password.error = null
 
             // Store values at the time of the login attempt.
             val email = login_txt_email.text.toString()

@@ -4,20 +4,23 @@ ADDED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManife
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:1-23:12
-MERGED from [com.github.WellingtonCosta.convalida:convalida:1.2.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\convalida-1.2.0.aar\cf383a7df8ebdef76703b6729f8eb538\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\c84beba2c836aa4cfb3df8c305673ebf\AndroidManifest.xml:2:1-14:12
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\bcce9bc65843b509356061f8fe7db36e\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\a1a2c9f79ac7ae03ff5871fa92ea326d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\10bd107cd81817a36ddeebd3f3297410\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\72f2e601b3e4fe57f130e096a9ca02c8\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d2f2f17aa3093adefb5057bca5fa2c2a\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:16:1-35:12
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:16:1-29:12
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:16:1-50:12
-MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\ee93639ee142687782822b7433e1366c\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd865d8a9bd9f3064c44c8241b2cddac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4545897986f5a7275fa3f1c0f383f482\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e1ff8b8dd36133155d14264d4fa6ea4f\AndroidManifest.xml:17:1-31:12
@@ -25,6 +28,14 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Tedis\.gradle\
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e431f10202e2959c79624dea0b3f4f22\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f4683fc4cc844e46dfd581dba7364c39\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\12c2db40bc3096dfd4698b2422adf473\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\7ecd561d10f6b61dcd24fde6edacc781\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\50dce96e51ff2b7ae35b6281030066f4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\74916c7fecd360f46be610fcacd79824\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\6e6292c730f59a6de8e46114558d91f2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\1c171fed2673f71c40fc7a3029a22a9d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\a0c2a4a4eb919af0e56eba48bdfacaf1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\16e66eb9e0b7fdd4cf2dbc16a5b94a1f\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:17:1-30:12
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:1-23:12
@@ -45,30 +56,38 @@ INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidMan
 		ADDED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml:5:5-21:19
-MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\a1a2c9f79ac7ae03ff5871fa92ea326d\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\a1a2c9f79ac7ae03ff5871fa92ea326d\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\c84beba2c836aa4cfb3df8c305673ebf\AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\c84beba2c836aa4cfb3df8c305673ebf\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\10bd107cd81817a36ddeebd3f3297410\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\10bd107cd81817a36ddeebd3f3297410\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\72f2e601b3e4fe57f130e096a9ca02c8\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\72f2e601b3e4fe57f130e096a9ca02c8\AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d2f2f17aa3093adefb5057bca5fa2c2a\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d2f2f17aa3093adefb5057bca5fa2c2a\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\ee93639ee142687782822b7433e1366c\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\ee93639ee142687782822b7433e1366c\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd865d8a9bd9f3064c44c8241b2cddac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd865d8a9bd9f3064c44c8241b2cddac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4545897986f5a7275fa3f1c0f383f482\AndroidManifest.xml:22:5-26:19
@@ -83,6 +102,22 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.grad
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f4683fc4cc844e46dfd581dba7364c39\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\12c2db40bc3096dfd4698b2422adf473\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\12c2db40bc3096dfd4698b2422adf473\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\7ecd561d10f6b61dcd24fde6edacc781\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\7ecd561d10f6b61dcd24fde6edacc781\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\50dce96e51ff2b7ae35b6281030066f4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\50dce96e51ff2b7ae35b6281030066f4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\74916c7fecd360f46be610fcacd79824\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\74916c7fecd360f46be610fcacd79824\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\6e6292c730f59a6de8e46114558d91f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\6e6292c730f59a6de8e46114558d91f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\1c171fed2673f71c40fc7a3029a22a9d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\1c171fed2673f71c40fc7a3029a22a9d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\a0c2a4a4eb919af0e56eba48bdfacaf1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\a0c2a4a4eb919af0e56eba48bdfacaf1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\16e66eb9e0b7fdd4cf2dbc16a5b94a1f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\16e66eb9e0b7fdd4cf2dbc16a5b94a1f\AndroidManifest.xml:5:5-20
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
@@ -123,34 +158,40 @@ uses-sdk
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
-MERGED from [com.github.WellingtonCosta.convalida:convalida:1.2.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\convalida-1.2.0.aar\cf383a7df8ebdef76703b6729f8eb538\AndroidManifest.xml:6:5-44
-MERGED from [com.github.WellingtonCosta.convalida:convalida:1.2.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\convalida-1.2.0.aar\cf383a7df8ebdef76703b6729f8eb538\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\c84beba2c836aa4cfb3df8c305673ebf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\c84beba2c836aa4cfb3df8c305673ebf\AndroidManifest.xml:8:5-10:41
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\bcce9bc65843b509356061f8fe7db36e\AndroidManifest.xml:5:5-43
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\bcce9bc65843b509356061f8fe7db36e\AndroidManifest.xml:5:5-43
-MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\a1a2c9f79ac7ae03ff5871fa92ea326d\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\a1a2c9f79ac7ae03ff5871fa92ea326d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\10bd107cd81817a36ddeebd3f3297410\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\10bd107cd81817a36ddeebd3f3297410\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\72f2e601b3e4fe57f130e096a9ca02c8\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\72f2e601b3e4fe57f130e096a9ca02c8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d2f2f17aa3093adefb5057bca5fa2c2a\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d2f2f17aa3093adefb5057bca5fa2c2a\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\ee93639ee142687782822b7433e1366c\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\ee93639ee142687782822b7433e1366c\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd865d8a9bd9f3064c44c8241b2cddac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd865d8a9bd9f3064c44c8241b2cddac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4545897986f5a7275fa3f1c0f383f482\AndroidManifest.xml:20:5-44
@@ -165,12 +206,28 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.grad
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f4683fc4cc844e46dfd581dba7364c39\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\12c2db40bc3096dfd4698b2422adf473\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\12c2db40bc3096dfd4698b2422adf473\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\7ecd561d10f6b61dcd24fde6edacc781\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\7ecd561d10f6b61dcd24fde6edacc781\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\50dce96e51ff2b7ae35b6281030066f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\50dce96e51ff2b7ae35b6281030066f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\74916c7fecd360f46be610fcacd79824\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\74916c7fecd360f46be610fcacd79824\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\6e6292c730f59a6de8e46114558d91f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\6e6292c730f59a6de8e46114558d91f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\1c171fed2673f71c40fc7a3029a22a9d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\1c171fed2673f71c40fc7a3029a22a9d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\a0c2a4a4eb919af0e56eba48bdfacaf1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\a0c2a4a4eb919af0e56eba48bdfacaf1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\16e66eb9e0b7fdd4cf2dbc16a5b94a1f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\16e66eb9e0b7fdd4cf2dbc16a5b94a1f\AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
@@ -180,9 +237,15 @@ INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidMan
 		ADDED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Tedis\Desktop\Coding\TommyTracker\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9b536099114e1e34c44de347eabc5ad4\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b1c36487ebf189bb200576d84c201efc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f594d71b4028cd191e506ccaf17c24a3\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d6a042854da7f06a333b4d518cd2823\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4545897986f5a7275fa3f1c0f383f482\AndroidManifest.xml:23:9-25:38
@@ -198,171 +261,179 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Tedis\.grad
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0b79026b80c20796703a916ec867e454\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b17d77d11b85e9cbb3393ed302d38c03\AndroidManifest.xml:27:13-51
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:20:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:19:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:21:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:22:22-65
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:25:90-112
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cde153196e3480bc776abe8d0453ba3\AndroidManifest.xml:27:13-51
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:27:13-48
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:27:162-184
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:27:185-208
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:27:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\28681ec0330bc3221c59961541d11fe3\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:32:16-87
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:33:7-197
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:33:148-170
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:33:171-195
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:33:91-147
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\94a916df225cc060c55e24d57b35c309\AndroidManifest.xml:33:16-90
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:28:13-102
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\a7a676b7f0545352480dcf0ea4444488\AndroidManifest.xml:19:19-85
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:22:5-81
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\ac3aefbf40db5e0ce9e9b9574f4d2af0\AndroidManifest.xml:24:13-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:22:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:17-71
-permission#com.example.tedis.tommytracker.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:24:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:26:22-76
-uses-permission#com.example.tedis.tommytracker.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:26:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:30:9-35:20
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:30:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:36:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:37:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ee4c9da5b5f1e9d82bb84007cd6e7371\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\0b900deee50cc9c59c52cacd02af561b\AndroidManifest.xml:48:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d7d46029c5eee76ec3db6daf1bc5524b\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:29:9-63
+permission#com.example.tedis.tommytracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:32:22-76
+uses-permission#com.example.tedis.tommytracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:36:13-78
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:39:13-43:29
 intent-filter#com.example.tedis.tommytracker+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:39:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:40:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:40:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:42:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:42:27-58
 category#com.example.tedis.tommytracker
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:42:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:33:27-58
-receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:39:9-119
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:39:93-117
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:42:27-58
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:43:18-82
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:51:13-77
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:44:13-46:29
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:44:28-51
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:45:17-79
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ba646fe3bc93c9070e3ff9057093c5ef\AndroidManifest.xml:45:25-77
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\0ca03bc40d7a7bc01290f6503de0f4d1\AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:8:9-12:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:11:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:12:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\d72ada045b1efb473bd74d91db6df3bf\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\1da9fcf6c0281e28a8634e2f00e3d8c2\AndroidManifest.xml:9:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\bdb7fbb158160e9095846e11c47b1277\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\56eb90e4aa3a1541a7a227560133a531\AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Tedis\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9c0a5bdd41977042271d2008c72442bc\AndroidManifest.xml:25:9-27:47
 	android:value
