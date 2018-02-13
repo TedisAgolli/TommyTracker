@@ -48,9 +48,6 @@ object NeedsContent {
         return builder.toString()
     }
 
-    /**
-     * A dummy item representing a piece of content.
-     */
     class NeedsItem(val id: String,val needType:Int, val sTime: String, val extraInfo: String) {
 
         override fun toString(): String {

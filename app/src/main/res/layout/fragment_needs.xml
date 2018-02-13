@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/fragment_needs"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:paddingBottom="0dp"
-    android:paddingTop="10dp"
-    >
+    android:paddingTop="10dp">
 
     <ImageView
         android:id="@+id/imageView"
@@ -28,10 +26,13 @@
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
         android:text="Label R"
-        app:layout_constraintBottom_toTopOf="@+id/needs_txt_content_extra"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/needs_txt_label_sTime"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintStart_toStartOf="@+id/needs_txt_content_extra"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="@+id/needs_txt_label_sTime" />
+
 
     <TextView
         android:id="@+id/needs_txt_label_sTime"
@@ -40,6 +41,8 @@
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
         android:text="Label L"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/needs_txt_content_sTime"
         app:layout_constraintStart_toEndOf="@+id/needs_txt_label_extra"
         app:layout_constraintStart_toStartOf="@+id/needs_txt_content_sTime"
@@ -50,36 +53,37 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/view"
+        android:maxLength="10"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/needs_txt_content_sTime"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintTop_toBottomOf="@+id/needs_txt_label_sTime" />
+        app:layout_constraintTop_toTopOf="@+id/needs_txt_content_sTime" />
 
     <TextView
         android:id="@+id/needs_txt_content_sTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:maxLength="10"
+        android:textSize="15sp"
         app:layout_constraintBottom_toTopOf="@+id/view"
         app:layout_constraintEnd_toStartOf="@+id/needs_txt_content_extra"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/needs_txt_label_sTime" />
 
+
     <View
         android:id="@+id/view"
         android:layout_width="wrap_content"
         android:layout_height="4dp"
-        android:layout_marginTop="8dp"
         android:layout_marginBottom="-10dp"
+        android:layout_marginTop="8dp"
         android:background="#000000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
-
-
 
 
 </android.support.constraint.ConstraintLayout>

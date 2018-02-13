@@ -1,7 +1,8 @@
 package com.example.tedis.tommytracker.RegisterActivity
 
-import com.example.tedis.tommytracker.Presenter
 import com.example.tedis.tommytracker.AuthViewInterface
+import com.example.tedis.tommytracker.HomeActivity.FirebaseModelInterface
+import com.example.tedis.tommytracker.Presenter
 import com.google.firebase.auth.FirebaseAuth
 import javax.inject.Inject
 
@@ -10,11 +11,17 @@ import javax.inject.Inject
  */
 class RegisterActivityPresenter @Inject constructor(): Presenter<AuthViewInterface> {
 
+
     private val mAuth = FirebaseAuth.getInstance()
     private lateinit var registerView: AuthViewInterface
+    private lateinit var firebaseModel:FirebaseModelInterface
 
     override fun setView(view: AuthViewInterface) {
         this.registerView = view
+    }
+
+    override fun setModel(model: FirebaseModelInterface) {
+        this.firebaseModel =firebaseModel
     }
 
 

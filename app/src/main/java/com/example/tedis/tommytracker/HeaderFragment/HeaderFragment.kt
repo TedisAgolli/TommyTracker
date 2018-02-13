@@ -33,7 +33,7 @@ class HeaderFragment : HeaderView, Fragment() {
 
     override fun setAge(age: String) {
         header_txt_age.text = age
-        Log.d("ERROR","Header Frag setAge");
+        Log.d("ERROR","Header Frag setAge")
     }
 
     override fun setWeight(weight: String) {
@@ -54,18 +54,12 @@ class HeaderFragment : HeaderView, Fragment() {
         App.getAppComponent().inject(this)
 
         super.onCreate(savedInstanceState)
-        if (arguments != null) {
-            mParam1 = arguments.getString(ARG_PARAM1)
-            mParam2 = arguments.getString(ARG_PARAM2)
-        }
+
         presenter.setView(this)
     }
 
-    override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
-                              savedInstanceState: Bundle?): View? {
-        // Inflate the layout for this fragment
-        return inflater!!.inflate(R.layout.fragment_header, container, false)
-
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        return inflater.inflate(R.layout.fragment_header, container, false)
     }
 
 
@@ -77,11 +71,12 @@ class HeaderFragment : HeaderView, Fragment() {
         }
     }
 
-    override fun onViewCreated(view: View?, savedInstanceState: Bundle?) {
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        presenter.populateFields()
+                presenter.populateFields()
 
     }
+
 
     override fun onAttach(context: Context?) {
         super.onAttach(context)

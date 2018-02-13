@@ -1,6 +1,7 @@
 package com.example.tedis.tommytracker.LoginActivity
 
 import com.example.tedis.tommytracker.AuthViewInterface
+import com.example.tedis.tommytracker.HomeActivity.FirebaseModelInterface
 import com.example.tedis.tommytracker.Presenter
 import com.google.firebase.auth.FirebaseAuth
 import javax.inject.Inject
@@ -13,11 +14,15 @@ class LoginActivityPresenter @Inject constructor(): Presenter<AuthViewInterface>
 
     private val mAuth = FirebaseAuth.getInstance()
     private lateinit var loginView: AuthViewInterface
-
+    private lateinit var firebaseModel:FirebaseModelInterface
     override fun setView(view: AuthViewInterface) {
         this.loginView = view
     }
 
+    override fun setModel(firebaseModel:FirebaseModelInterface)
+    {
+        this.firebaseModel =firebaseModel
+    }
     fun checkIfLoggedIn()
     {
         if(mAuth.currentUser != null)

@@ -63,7 +63,7 @@ class MyNeedsRecyclerViewAdapter(private val mValues: List<NeedsItem>, private v
         init {
             imgView = mView.imageView
             txt_needs_label_sTime = mView.needs_txt_label_sTime
-            txt_needs_label_extra = mView.needs_txt_label_sTime
+            txt_needs_label_extra = mView.needs_txt_label_extra
             txt_needs_content_sTime = mView.needs_txt_content_sTime
             txt_needs_content_extra = mView.needs_txt_content_extra
         }

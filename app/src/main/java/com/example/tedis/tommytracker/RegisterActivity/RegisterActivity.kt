@@ -29,7 +29,6 @@ class RegisterActivity : AppCompatActivity(), AuthViewInterface {
     }
 
     @Inject lateinit var registerPresenter:RegisterActivityPresenter
-    @Inject lateinit var validation:FieldValidation
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -63,7 +62,7 @@ class RegisterActivity : AppCompatActivity(), AuthViewInterface {
             register_txt_password.error= ERROR_FIELD_REQUIRED
             register_txt_password.requestFocus()
             cancel=true
-        } else if (!validation.isPasswordValid(password)) {
+        } else if (!FieldValidation.isPasswordValid(password)) {
             register_txt_password.error= ERROR_INVALID_PASSWORD
             register_txt_password.requestFocus()
             cancel = true
@@ -75,7 +74,7 @@ class RegisterActivity : AppCompatActivity(), AuthViewInterface {
             register_txt_email.requestFocus()
 
             cancel = true
-        } else if (!validation.isEmailValid(email)) {
+        } else if (!FieldValidation.isEmailValid(email)) {
             register_txt_email.error = ERROR_INVALID_EMAIL
             register_txt_email.requestFocus()
             cancel = true

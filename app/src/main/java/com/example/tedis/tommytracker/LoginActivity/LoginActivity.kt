@@ -8,6 +8,7 @@ import android.util.Log
 import android.widget.Toast
 import com.example.tedis.tommytracker.App
 import com.example.tedis.tommytracker.AuthViewInterface
+import com.example.tedis.tommytracker.HomeActivity.FirebaseModel
 import com.example.tedis.tommytracker.HomeActivity.HomeActivity
 import com.example.tedis.tommytracker.R
 import com.example.tedis.tommytracker.RegisterActivity.RegisterActivity
@@ -21,7 +22,7 @@ import javax.inject.Inject
 class LoginActivity : AppCompatActivity(), AuthViewInterface {
 
     @Inject lateinit var loginPresenter:LoginActivityPresenter
-    @Inject lateinit var validation: FieldValidation
+    @Inject lateinit var firebaseModel : FirebaseModel
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -30,9 +31,8 @@ class LoginActivity : AppCompatActivity(), AuthViewInterface {
         App.getAppComponent().inject(this)
 
         loginPresenter.setView(this)
+        loginPresenter.setModel(firebaseModel)
         loginPresenter.checkIfLoggedIn()
-
-
 
         btnLogin.setOnClickListener {
 
@@ -77,7 +77,7 @@ class LoginActivity : AppCompatActivity(), AuthViewInterface {
             login_txt_password.error= ERROR_FIELD_REQUIRED
             login_txt_password.requestFocus()
             cancel=true
-        } else if (!validation.isPasswordValid(password)) {
+        } else if (!FieldValidation.isPasswordValid(password)) {
             login_txt_password.error= ERROR_INVALID_PASSWORD
             login_txt_password.requestFocus()
             cancel = true
@@ -89,7 +89,7 @@ class LoginActivity : AppCompatActivity(), AuthViewInterface {
             login_txt_email.requestFocus()
 
             cancel = true
-        } else if (!validation.isEmailValid(email)) {
+        } else if (!FieldValidation.isEmailValid(email)) {
             login_txt_email.error = ERROR_INVALID_EMAIL
             login_txt_email.requestFocus()
             cancel = true

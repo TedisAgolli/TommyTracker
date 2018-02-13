@@ -1,14 +1,9 @@
 package com.example.tedis.tommytracker.Utils
 
-import javax.inject.Inject
-
 /**
  * Created by Tedis on 1/28/2018.
  */
-class FieldValidation @Inject constructor()  {
-
-
-
+object FieldValidation  {
 
 
     fun isEmailValid(email: String): Boolean {

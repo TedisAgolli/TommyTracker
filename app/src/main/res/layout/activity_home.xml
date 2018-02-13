@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:name="com.example.tedis.tommytracker.HeaderFragment.HeaderFragment"
-        android:id="@+id/fragment_header"/>
+        android:id="@+id/fragment_header"
+        tools:layout="@layout/fragment_header" />
 
 
     <fragment
@@ -21,42 +22,19 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:layout_below="@id/fragment_header"
-         />
+        tools:layout="@layout/fragment_needs_list" />
 
-
-    <com.getbase.floatingactionbutton.FloatingActionsMenu
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <io.github.kobakei.materialfabspeeddial.FabSpeedDial
+        android:id="@+id/home_fab_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_alignEnd="@+id/fragment_needs"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="20dp"
         android:layout_marginEnd="20dp"
-        app:fab_addButtonColorNormal="@color/colorAccent"
-        android:id="@+id/home_fab_main"
-        >
-
-
-        <android.support.design.widget.FloatingActionButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/home_fab_feeding"
-            android:src="@drawable/feeding"
-            />
-
-        <android.support.design.widget.FloatingActionButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/home_fab_potty"
-            android:src="@drawable/potty" />
-
-        <android.support.design.widget.FloatingActionButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/home_fab_sleeping"
-            android:src="@drawable/sleep" />
-
-    </com.getbase.floatingactionbutton.FloatingActionsMenu>
-
+        app:fab_fabBackgroundColor="@color/colorAccent"
+        app:fab_useTouchGuard="false"
+        app:fab_menu="@menu/fab_home"/>
 
 
 </RelativeLayout>

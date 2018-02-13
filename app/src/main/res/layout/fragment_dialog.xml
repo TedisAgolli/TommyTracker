@@ -1,16 +1,14 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/fragment_dialog_add_need"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:paddingBottom="0dp"
-    android:paddingTop="10dp"
-    >
+    android:paddingTop="10dp">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/dialog_imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
@@ -21,50 +19,58 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/needs_txt_label_extra"
+        android:id="@+id/needs_dialog_txt_label_extra"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
         android:text="Label R"
-        app:layout_constraintBottom_toTopOf="@+id/needs_txt_content_extra"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintStart_toStartOf="@+id/needs_txt_content_extra"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/needs_dialog_txt_label_sTime"
+        app:layout_constraintStart_toEndOf="@+id/dialog_imageView"
+        app:layout_constraintStart_toStartOf="@+id/needs_dialog_txt_content_extra"
+        app:layout_constraintTop_toTopOf="@+id/needs_dialog_txt_label_sTime" />
 
     <TextView
-        android:id="@+id/needs_txt_label_sTime"
+        android:id="@+id/needs_dialog_txt_label_sTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
         android:text="Label L"
-        app:layout_constraintBottom_toTopOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintStart_toEndOf="@+id/needs_txt_label_extra"
-        app:layout_constraintStart_toStartOf="@+id/needs_txt_content_sTime"
+        app:layout_constraintBottom_toTopOf="@+id/needs_dialog_txt_content_sTime"
+        app:layout_constraintStart_toEndOf="@+id/needs_dialog_txt_label_extra"
+        app:layout_constraintStart_toStartOf="@+id/needs_dialog_txt_content_sTime"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/needs_txt_content_extra"
+        android:id="@+id/needs_dialog_txt_content_extra"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/view"
+        android:maxLength="10"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/needs_dialog_txt_content_sTime"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintTop_toBottomOf="@+id/needs_txt_label_sTime" />
+        app:layout_constraintStart_toEndOf="@+id/needs_dialog_txt_content_sTime"
+        app:layout_constraintTop_toTopOf="@+id/needs_dialog_txt_content_sTime" />
 
-    <EditText
-        android:id="@+id/needs_txt_content_sTime"
+    <TextView
+        android:id="@+id/needs_dialog_txt_content_sTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
+        android:hint="Time"
+        android:textSize="15sp"
         app:layout_constraintBottom_toTopOf="@+id/view"
-        app:layout_constraintEnd_toStartOf="@+id/needs_txt_content_extra"
+        app:layout_constraintEnd_toStartOf="@+id/needs_dialog_txt_content_extra"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toBottomOf="@+id/needs_txt_label_sTime" />
+        app:layout_constraintStart_toEndOf="@+id/dialog_imageView"
+        app:layout_constraintTop_toBottomOf="@+id/needs_dialog_txt_label_sTime" />
 
     <View
         android:id="@+id/view"
@@ -74,7 +80,7 @@
         android:layout_marginTop="52dp"
         android:background="#000000"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/dialog_imageView" />
 
 
 </android.support.constraint.ConstraintLayout>

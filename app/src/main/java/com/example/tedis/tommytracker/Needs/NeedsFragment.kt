@@ -31,25 +31,20 @@ class NeedsFragment : Fragment() {
 
     private var mListener: OnListFragmentInteractionListener? = null
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-
-    }
-
-    override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
-        val view = inflater!!.inflate(R.layout.fragment_needs_list, container, false)
+        val view = inflater.inflate(R.layout.fragment_needs_list, container, false)
 
         // Set the adapter
         if (view is RecyclerView) {
             val context = view.getContext()
-            val recyclerView = view as RecyclerView
+            val recyclerView = view
             if (mColumnCount <= 1) {
-                recyclerView.setLayoutManager(LinearLayoutManager(context))
+                recyclerView.layoutManager = LinearLayoutManager(context)
             } else {
-                recyclerView.setLayoutManager(GridLayoutManager(context, mColumnCount))
+                recyclerView.layoutManager = GridLayoutManager(context, mColumnCount)
             }
-            recyclerView.setAdapter(MyNeedsRecyclerViewAdapter(NeedsContent.ITEMS, mListener))
+            recyclerView.adapter = MyNeedsRecyclerViewAdapter(NeedsContent.ITEMS, mListener)
         }
         return view
     }
