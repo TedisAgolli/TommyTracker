@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.text.format.DateFormat
 import android.view.View
-import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
 import com.example.tedis.tommytracker.App
@@ -71,7 +70,7 @@ class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.
 
         val labelTime = dialogView.findViewById<View>(R.id.needs_dialog_txt_label_sTime) as TextView
         val labelExtra = dialogView.findViewById<View>(R.id.needs_dialog_txt_label_extra) as TextView
-        val contentExtra = dialogView.findViewById<View>(R.id.needs_dialog_txt_content_extra) as EditText
+        val contentExtra = dialogView.findViewById<View>(R.id.needs_dialog_txt_content_extra) as TextView
         val contentTime = dialogView.findViewById<View>(R.id.needs_dialog_txt_content_sTime) as TextView
         val imageView = dialogView.findViewById<View>(R.id.dialog_imageView) as ImageView
 
@@ -104,6 +103,23 @@ class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.
             ), hour, minute,
                     DateFormat.is24HourFormat(this))
             timePicker.show()
+        }
+
+
+        if(needs.type == SLEEP_CODE)
+        {
+            contentExtra.setOnClickListener { view ->
+                val timePicker =  TimePickerDialog(this, TimePickerDialog.OnTimeSetListener(function =
+                {
+                    timePicker, i, j ->
+                    c.set(c.get(Calendar.YEAR),c.get(Calendar.MONTH),c.get(Calendar.DATE),timePicker.hour,timePicker.minute)
+                    contentExtra.text = TimeConversion.getFormattedDate(c.timeInMillis)
+                }
+
+                ), hour, minute,
+                        DateFormat.is24HourFormat(this))
+                timePicker.show()
+            }
         }
 
         addNeedsDialog.setPositiveButton("ADD",

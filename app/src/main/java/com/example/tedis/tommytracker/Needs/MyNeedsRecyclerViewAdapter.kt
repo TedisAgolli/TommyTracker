@@ -45,7 +45,7 @@ class MyNeedsRecyclerViewAdapter(private val mValues: List<NeedsItem>, private v
 
 
         holder.mView.setOnClickListener {
-            mListener?.onListFragmentInteraction(holder.mItem!!)
+            //mListener?.onListFragmentInteraction(holder.mItem!!)
         }
     }
 
