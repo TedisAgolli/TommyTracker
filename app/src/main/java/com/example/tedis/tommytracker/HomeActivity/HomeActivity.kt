@@ -28,6 +28,7 @@ import javax.inject.Inject
 class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.OnFragmentInteractionListener, NeedsFragment.OnListFragmentInteractionListener {
 
 
+
     override fun onListFragmentInteraction(item: NeedsContent.NeedsItem) {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
@@ -50,6 +51,8 @@ class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.
         presenter.setModel(firebaseModel)
 
 
+        presenter.populateNeedsFromFirebase()
+
         home_fab_main.addOnMenuItemClickListener { miniFab, label, itemId ->
             when(itemId)
             {
@@ -58,6 +61,8 @@ class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.
                 R.id.home_fab_sleeping ->createDialog(NeedModel(SLEEP_CODE))
             }
         }
+
+
     }
 
     private fun createDialog(needs:NeedModel)
@@ -117,4 +122,10 @@ class HomeActivity : AppCompatActivity(), HomeActivityInterface, HeaderFragment.
 
     }
 
+    override fun populateNeedsList(need: NeedsFirebaseModel?) {
+        val frag= fragment_needs as NeedsFragment
+        frag.addNeedToList(NeedsContent.NeedsItem(need!!.type,need.stime,need.extra))
     }
+
+    }
+

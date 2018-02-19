@@ -3,6 +3,7 @@ package com.example.tedis.tommytracker.HomeActivity
 import android.util.Log
 import com.example.tedis.tommytracker.Needs.NeedsFirebaseModel
 import com.example.tedis.tommytracker.Presenter
+import com.google.firebase.database.DataSnapshot
 import javax.inject.Inject
 
 /**
@@ -24,7 +25,28 @@ class HomeActivityPresenter @Inject constructor():Presenter<HomeActivityInterfac
     fun pushEventToFirebase(event:NeedsFirebaseModel)
     {
         firebaseModel.addEvent(event)
+        homeView.populateNeedsList(event)
     }
 
-    fun test() = Log.d("TEST","HELLOOO")
+    fun populateNeedsFromFirebase()
+    {
+        firebaseModel.getFirebaseNeeds().subscribe(
+                {
+                    t:DataSnapshot ->
+                    kotlin.run {
+
+                        t.children.forEach {
+                            homeView.populateNeedsList(it.getValue(NeedsFirebaseModel::class.java))
+                        }
+
+                    }
+
+                },
+                {
+                    t: Throwable? -> Log.d("HomePresenter",t?.message)
+                }
+        )
+    }
+
+
 }

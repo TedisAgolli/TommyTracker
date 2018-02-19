@@ -9,7 +9,6 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-
 import com.example.tedis.tommytracker.Needs.NeedsContent.NeedsItem
 import com.example.tedis.tommytracker.R
 
@@ -28,8 +27,9 @@ class NeedsFragment : Fragment() {
 
     // TODO: Customize parameters
     private val mColumnCount = 1
-
     private var mListener: OnListFragmentInteractionListener? = null
+    private lateinit var recyclerView:RecyclerView
+
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
@@ -38,13 +38,16 @@ class NeedsFragment : Fragment() {
         // Set the adapter
         if (view is RecyclerView) {
             val context = view.getContext()
-            val recyclerView = view
+            recyclerView = view
             if (mColumnCount <= 1) {
                 recyclerView.layoutManager = LinearLayoutManager(context)
             } else {
                 recyclerView.layoutManager = GridLayoutManager(context, mColumnCount)
             }
+
+
             recyclerView.adapter = MyNeedsRecyclerViewAdapter(NeedsContent.ITEMS, mListener)
+
         }
         return view
     }
@@ -76,5 +79,11 @@ class NeedsFragment : Fragment() {
     interface OnListFragmentInteractionListener {
         // TODO: Update argument type and name
         fun onListFragmentInteraction(item: NeedsItem)
+    }
+
+    fun addNeedToList(need:NeedsItem)
+    {
+        NeedsContent.ITEMS.add(need)
+        this.recyclerView.adapter.notifyDataSetChanged()
     }
 }

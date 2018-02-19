@@ -23,20 +23,19 @@ object NeedsContent {
 
     private val COUNT = 3
 
-    init {
+    /*init {
         // Add some sample items.
         for (i in 1..COUNT) {
             addItem(createNeedsItem(i))
         }
-    }
+    }*/
 
     private fun addItem(item: NeedsItem) {
         ITEMS.add(item)
-        ITEM_MAP.put(item.id, item)
     }
 
     private fun createNeedsItem(position: Int): NeedsItem {
-        return NeedsItem(position.toString(), 1, "Item " + position, "TEST")
+        return NeedsItem(1, "Item " + position, "TEST")
     }
 
     private fun makeDetails(position: Int): String {
@@ -48,7 +47,7 @@ object NeedsContent {
         return builder.toString()
     }
 
-    class NeedsItem(val id: String,val needType:Int, val sTime: String, val extraInfo: String) {
+    class NeedsItem(val needType:Int, val sTime: String, val extraInfo: String) {
 
         override fun toString(): String {
             return sTime

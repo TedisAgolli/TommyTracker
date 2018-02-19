@@ -14,6 +14,7 @@ class NeedModel (type:Int){
     lateinit var labelExtra:String
     var image:Int = 0
     val type:Int
+    var color:Int = 0
 
     init {
         this.type = type
@@ -23,12 +24,15 @@ class NeedModel (type:Int){
             {
                 labelExtra = "Item"
                 image = R.drawable.feeding
+                color = R.color.need_feeding
             }
 
             POTTY_CODE ->
             {
                 labelExtra = ""
                 image = R.drawable.potty
+                color = R.color.need_potty
+
             }
 
             SLEEP_CODE ->
@@ -36,6 +40,7 @@ class NeedModel (type:Int){
                 labelTime="From"
                 labelExtra = "To"
                 image = R.drawable.sleep
+                color = R.color.need_sleep
             }
         }
     }

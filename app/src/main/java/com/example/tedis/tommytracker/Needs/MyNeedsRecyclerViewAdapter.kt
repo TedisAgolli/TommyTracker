@@ -34,10 +34,12 @@ class MyNeedsRecyclerViewAdapter(private val mValues: List<NeedsItem>, private v
         holder.mItem = mValues[position]
 
 
-        holder.needsView.setBackgroundResource(R.color.need_feeding)
-        holder.imgView.setImageResource(R.drawable.potty)
-        holder.txt_needs_label_sTime.text = "Start Time"
-        holder.txt_needs_content_extra.text = "End Time"
+        val needModel = NeedModel(mValues[position].needType)
+
+        holder.needsView.setBackgroundResource(needModel.color)
+        holder.imgView.setImageResource(needModel.image)
+        holder.txt_needs_label_sTime.text = needModel.labelTime
+        holder.txt_needs_label_extra.text = needModel.labelExtra
         holder.txt_needs_content_sTime.text = mValues[position].sTime
         holder.txt_needs_content_extra.text = mValues[position].extraInfo
 

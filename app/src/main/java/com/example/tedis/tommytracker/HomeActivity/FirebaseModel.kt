@@ -5,7 +5,10 @@ import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.AuthResult
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
+import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.FirebaseDatabase
+import durdinapps.rxfirebase2.RxFirebaseDatabase
+import io.reactivex.Observable
 import javax.inject.Inject
 
 /**
@@ -13,13 +16,11 @@ import javax.inject.Inject
  */
 class FirebaseModel @Inject constructor():FirebaseModelInterface {
 
-
-
     var firebaseAuth:FirebaseAuth
-    var fireaseDatabase:FirebaseDatabase
+    var firebaseDatabase:FirebaseDatabase
     init {
          firebaseAuth = FirebaseAuth.getInstance()
-         fireaseDatabase = FirebaseDatabase.getInstance()
+         firebaseDatabase = FirebaseDatabase.getInstance()
     }
 
     override fun getsignInWithEmailandPaswordResult(email: String, password: String): Task<AuthResult> {
@@ -43,7 +44,12 @@ class FirebaseModel @Inject constructor():FirebaseModelInterface {
     }
 
     override fun addEvent(event: NeedsFirebaseModel) {
-        fireaseDatabase.reference.child(getCurrentFirebaseUser()?.uid + "/Thomas/Needs" ).push().setValue(event)
+        firebaseDatabase.reference.child(getCurrentFirebaseUser()?.uid + "/Thomas/Needs" ).push().setValue(event)
 
+    }
+
+    override fun getFirebaseNeeds(): Observable<DataSnapshot> {
+        val ref = firebaseDatabase.reference.child(getCurrentFirebaseUser()?.uid + "/Thomas/Needs" )
+        return RxFirebaseDatabase.observeSingleValueEvent(ref).toObservable()
     }
 }

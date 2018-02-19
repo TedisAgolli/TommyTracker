@@ -20,6 +20,7 @@ interface AppComponent {
     fun inject(registerActivity: RegisterActivity):RegisterActivity
 
 
+
 }
 
 

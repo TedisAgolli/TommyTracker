@@ -4,7 +4,8 @@ import com.example.tedis.tommytracker.Needs.NeedsFirebaseModel
 import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.AuthResult
 import com.google.firebase.auth.FirebaseUser
-
+import com.google.firebase.database.DataSnapshot
+import io.reactivex.Observable
 
 
 /**
@@ -18,4 +19,5 @@ interface FirebaseModelInterface {
     fun signOut()
     fun getCurrentUsername(): String?
     fun addEvent(event:NeedsFirebaseModel)
+    fun getFirebaseNeeds(): Observable<DataSnapshot>
 }

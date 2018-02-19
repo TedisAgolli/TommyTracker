@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_needs"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:paddingBottom="0dp"
-    android:paddingTop="10dp">
+    android:paddingTop="0dp">
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="12dp"
         android:src="@mipmap/ic_launcher"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        />
 
-    <TextView
-        android:id="@+id/needs_txt_label_extra"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginTop="8dp"
-        android:text="Label R"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="@+id/needs_txt_label_sTime"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintStart_toStartOf="@+id/needs_txt_content_extra"
-        app:layout_constraintTop_toTopOf="@+id/needs_txt_label_sTime" />
-
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/linearTime"
+    android:layout_toEndOf="@id/imageView"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    >
 
     <TextView
         android:id="@+id/needs_txt_label_sTime"
@@ -43,36 +35,49 @@
         android:text="Label L"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintStart_toEndOf="@+id/needs_txt_label_extra"
-        app:layout_constraintStart_toStartOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/needs_txt_content_extra"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:maxLength="10"
-        android:textSize="15sp"
-        app:layout_constraintBottom_toBottomOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/needs_txt_content_sTime"
-        app:layout_constraintTop_toTopOf="@+id/needs_txt_content_sTime" />
+        />
 
     <TextView
         android:id="@+id/needs_txt_content_sTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:maxLength="10"
-        android:textSize="15sp"
-        app:layout_constraintBottom_toTopOf="@+id/view"
-        app:layout_constraintEnd_toStartOf="@+id/needs_txt_content_extra"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toBottomOf="@+id/needs_txt_label_sTime" />
+        android:maxLength="12"
+        android:text="TEST"
+        android:layout_gravity="start"
+        android:textSize="15sp" />
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearExtra"
+        android:layout_toEndOf="@id/linearTime"
+        >
+
+        <TextView
+            android:id="@+id/needs_txt_label_extra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Label R"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/needs_txt_content_extra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:maxLength="12"
+            android:text="TEST"
+            android:textSize="15sp"
+            />
+
+    </LinearLayout>
 
 
     <View
@@ -81,9 +86,9 @@
         android:layout_height="4dp"
         android:layout_marginBottom="-10dp"
         android:layout_marginTop="8dp"
+        android:layout_below="@id/imageView"
         android:background="#000000"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+       />
 
 
-</android.support.constraint.ConstraintLayout>
+</RelativeLayout>
